@@ -25,8 +25,8 @@
 }
 
 body {
-  background-color: var("images/x-icon/biden-1.png");
-  display: flex;
+  background-color: var(--bg-color);
+  background-image: images/x-icon/biden-1.png;
   flex-flow: column;
   height: 100vh;
   color: var(--font-color);
