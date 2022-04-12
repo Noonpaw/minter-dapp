@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to NoFilter's Let's Go Brandon NFT Minter";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Procedes from NFLets GO Brandon will directly support The RNC and other projects like this';
+const welcome_p = 'Proceeds from NFLets Go Brandon will directly support the RNC and other projects like this';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Is Open";
