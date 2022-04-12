@@ -51,7 +51,7 @@ body {
 
 header {
   background-color: var(--head-color);
-  background-image: linear-gradient(to right, rgb(153, 59, 63), rgba(255, 255, 255, 0))
+  background-image: linear-gradient(to right, rgb(153, 59, 63), rgba(255, 255, 255, 0));
   box-shadow: var(--header-shadow);
 }
 
@@ -148,7 +148,7 @@ header .container {
   position: relative;
   background-color: var(--bg-color);
   border-radius: 5px;
-  border: 3px solid var(--accent-color2);
+  border: 3px solid var(--accent-color);
   box-shadow: var(--card-shadow);
   padding: 5rem;
   margin-bottom: 2rem;
@@ -330,7 +330,7 @@ section {
 }
 
 .splide__slide {
-  border: var(--accent-color) solid;
+  border: var(--accent-color2) solid;
   border-width: 5px 10px;
 }
 
