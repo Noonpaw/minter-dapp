@@ -26,8 +26,8 @@
 
 body {
   background-color: var(--bg-color);
+  background-image: -webkit-image-set(images/x-icon/biden-1.png);
   display: flex;
-  background-image: "images/x-icon/biden-1.png";
   flex-flow: column;
   height: 100vh;
   color: var(--font-color);
