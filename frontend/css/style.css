@@ -28,6 +28,9 @@
 body {
   background-color: var(--bg-color);
   background-image: linear-gradient(to right, rgba(30, 75, 115, 1), rgba(255, 255, 255, 0)),url(images/x-icon/Biden-1.png);
+  background-position: center;
+  background-size: cover;
+  position: relative;
   height: 100vh;
   color: var(--font-color);
   font-family: var(--font-primary);
