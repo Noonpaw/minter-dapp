@@ -10,10 +10,10 @@
   --font-code: "Roboto", monospace;
   --bg-color: #00055d;
   --bg-color-transparent: #00044a64;
-  --head-color: #4d0101;
+  --head-color: #661919;
   --font-color: #ffffff;
-  --btn-bg-color: #ffffff;
-  --accent-color: #4f4f4f;
+  --btn-bg-color: #5a5a5a;
+  --accent-color: #ffffff;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
   --bg-image: "images/x-icon/Biden-1.png";
@@ -50,6 +50,7 @@ body {
 
 header {
   background-color: var(--head-color);
+  background-image: linear-gradient(to right, rgb(153, 59, 63), rgba(255, 255, 255, 0))
   box-shadow: var(--header-shadow);
 }
 
