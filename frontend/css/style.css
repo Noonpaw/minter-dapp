@@ -27,7 +27,7 @@
 
 body {
   background-color: var(--bg-color);
-  background-image:image(--bg-image);
+  background-image:url(images/x-icon/biden-1.png);
   display: flex;
   flex-flow: column;
   height: 100vh;
