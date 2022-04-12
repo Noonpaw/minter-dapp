@@ -216,7 +216,7 @@ section {
 }
 
 .countdown h1 {
-  text-shadow: 2px 2px 0 var(--accent-color);
+  text-shadow: 2px 2px 0 var(--btn-bg-color);
   font-style: italic;
   margin: 2rem 0;
   font-size: 3.5rem;
@@ -256,7 +256,7 @@ section {
   justify-content: space-between;
   align-items: center;
   padding: 1rem;
-  background-color: var(--accent-color);
+  background-color: var(--btn-bg-color);
   border-radius: 5px;
 }
 
