@@ -16,7 +16,7 @@
   --accent-color: #4f4f4f;
   --header-shadow: var(--accent-color) 0px 0px 5px;
   --card-shadow: var(--accent-color) 0px 0px 20px;
-  --bg-image: "images/x-icon/biden-1.png";
+  --bg-image: "images/x-icon/Biden-1.png";
 }
 
 * {
@@ -27,7 +27,7 @@
 
 body {
   background-color: var(--bg-color);
-  background-image:url(images/x-icon/biden-1.png);
+  background-image:var(--bg-image);
   display: flex;
   flex-flow: column;
   height: 100vh;
