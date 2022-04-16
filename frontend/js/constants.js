@@ -1,5 +1,5 @@
-const contractAddress = "0x97a9EE165F29646206353B55468aa3a03a15E9fB"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0xB1a74aBe08D3B779ba6bD43f9b684E4544fdE9Ad"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to NoFilter's Let's Go Brandon NFT Minter";
 const welcome_h2 = "Connect to MetaMask to Get Started";
